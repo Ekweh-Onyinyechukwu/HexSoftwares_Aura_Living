@@ -1,3 +1,6 @@
+
+![](AURALIving.png)
+
 ## Case Study Overview
 AuraLiving is a smart home dashboard concept designed for my HexSoftwares Internship Task 3. The goal of this project was to create a seamless interface that allows users to monitor, control, and automate their smart home devices from a single dashboard.
 
